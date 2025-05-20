@@ -21,7 +21,7 @@ An AI project to predict who will win a race in the 2025 NASCAR season
   based on this information
 
 - Todo:
-    1. Gather data for average lap time
+    * Gather data for average lap time
     2. Gather data for average pit stop time
     3. Implement information about the NASCAR playoff system. 
     4. Implement live-stats (probably way too optimistic for my current skill-set)
